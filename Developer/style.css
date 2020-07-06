@@ -1,0 +1,13 @@
+body{
+background-color: rgba(196, 195, 195, 0.521);
+text-align: center;
+align-items: center;
+
+}
+
+.one1{
+ background-color: #00BBF9 ;
+padding: 40px;
+border-radius: 10px;
+border-color: black;
+}
